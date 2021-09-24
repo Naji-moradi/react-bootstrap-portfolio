@@ -1,0 +1,17 @@
+[33mcommit dc07713150c9264b91b0fa35f6dc6710c6c0a51b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: akhtar mohammad <akhtarmoradi303@gmail.com>
+Date:   Fri Sep 24 14:31:59 2021 +0530
+
+    project setupe
+
+[33mcommit 0f2e2a2a6a3266d826e130195a1f0e848d0fb2e0[m
+Author: akhtar mohammad <akhtarmoradi303@gmail.com>
+Date:   Thu Sep 23 17:29:35 2021 +0530
+
+    project setup
+
+[33mcommit d38c797d9df16e6b6230a229a8f0e61289287b98[m
+Author: akhtar mohammad <akhtarmoradi303@gmail.com>
+Date:   Thu Sep 23 17:07:55 2021 +0530
+
+    Initialize project using Create React App
