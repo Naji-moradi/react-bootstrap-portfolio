@@ -6,8 +6,8 @@ import { FaBars } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-dark">
-      <div className="container">
+    <nav className="color12 navbar navbar-expand-lg ">
+      <div className="container  ">
         <a className="navbar-brand" href="#">
           <img className="logo" src={logo} alt="logo" />
         </a>
